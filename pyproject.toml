@@ -1,0 +1,12 @@
+[project]
+name = "eda-atliq-grands"
+version = "0.1.0"
+description = "AtliQ Grands, a hotel chain in Mumbai, Delhi, Bangalore, and Hyderabad with brands like Seasons, Exotica, Bay, and Palace, faces declining revenue and market share, prompting data-driven strategies to boost efficiency, revenue, and competitiveness."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+]
