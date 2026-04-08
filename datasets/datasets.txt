@@ -1,1 +1,1 @@
-The dataset used in this project was provided by Codebasics and cannot be shared publicly due to copyright restrictions.
+The dataset used in this project was provided by Codebasics for training purpose only and cannot be shared publicly due to copyright restrictions.
