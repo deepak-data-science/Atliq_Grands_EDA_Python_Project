@@ -1,4 +1,19 @@
-# 🏨✨ Atliq-Grands-Hospitality-Analysis-Python-Project
+# 🏨✨ Atliq Grands Hospitality Analysis – Python Project
+
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-black?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-purple?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Preprocessing-red?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-Transformation-teal?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Insights-green?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+---
 
 # 🏢 Company Overview
 AtliQ Grands is a leading hotel chain operating across major Indian cities like  Mumbai, Delhi, Bangalore and Hyderabad, with diverse hotel types such as AtliQ Seasons, AtliQ Exotica, AtliQ Bay and AtliQ Palace.
